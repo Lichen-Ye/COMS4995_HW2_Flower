@@ -7,7 +7,7 @@ CLASSES = {
 };
 
 const MODEL_PATH =
-    'model.json';
+    'HW2_flower/model.json';
 
 const IMAGE_SIZE = 192;
 const TOPK_PREDICTIONS = 5;
